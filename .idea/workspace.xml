@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c57bb1a-722b-43f3-a9e3-a3e2fff9c073" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sBFnXd6k5zG3t2Wlmu3wXcNszp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunManager" selected="Application.Uva11172">
+    <configuration name="Uva11172" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Uva11172" />
+      <module name="uva" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Uva230" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Uva230" />
+      <module name="uva" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Uva11172" />
+        <item itemvalue="Application.Uva230" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c57bb1a-722b-43f3-a9e3-a3e2fff9c073" name="Default Changelist" comment="" />
+      <created>1620338248391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620338248391</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2516" height="407" key="GridCell.Tab.0.bottom" timestamp="1620341920843">
+      <screen x="0" y="23" width="2560" height="1413" />
+    </state>
+    <state width="2516" height="407" key="GridCell.Tab.0.bottom/0.23.2560.1413/-1920.23.1920.1057@0.23.2560.1413" timestamp="1620341920843" />
+    <state width="2516" height="407" key="GridCell.Tab.0.bottom/0.23.2560.1417/-1920.23.1920.1053@0.23.2560.1417" timestamp="1620339542505" />
+    <state width="2516" height="407" key="GridCell.Tab.0.center" timestamp="1620341920842">
+      <screen x="0" y="23" width="2560" height="1413" />
+    </state>
+    <state width="2516" height="407" key="GridCell.Tab.0.center/0.23.2560.1413/-1920.23.1920.1057@0.23.2560.1413" timestamp="1620341920842" />
+    <state width="2516" height="407" key="GridCell.Tab.0.center/0.23.2560.1417/-1920.23.1920.1053@0.23.2560.1417" timestamp="1620339542504" />
+    <state width="2516" height="407" key="GridCell.Tab.0.left" timestamp="1620341920841">
+      <screen x="0" y="23" width="2560" height="1413" />
+    </state>
+    <state width="2516" height="407" key="GridCell.Tab.0.left/0.23.2560.1413/-1920.23.1920.1057@0.23.2560.1413" timestamp="1620341920841" />
+    <state width="2516" height="407" key="GridCell.Tab.0.left/0.23.2560.1417/-1920.23.1920.1053@0.23.2560.1417" timestamp="1620339542504" />
+    <state width="2516" height="407" key="GridCell.Tab.0.right" timestamp="1620341920842">
+      <screen x="0" y="23" width="2560" height="1413" />
+    </state>
+    <state width="2516" height="407" key="GridCell.Tab.0.right/0.23.2560.1413/-1920.23.1920.1057@0.23.2560.1413" timestamp="1620341920842" />
+    <state width="2516" height="407" key="GridCell.Tab.0.right/0.23.2560.1417/-1920.23.1920.1053@0.23.2560.1417" timestamp="1620339542505" />
+    <state x="780" y="368" key="SettingsEditor" timestamp="1620340959486">
+      <screen x="0" y="23" width="2560" height="1413" />
+    </state>
+    <state x="780" y="368" key="SettingsEditor/0.23.2560.1413/-1920.23.1920.1057@0.23.2560.1413" timestamp="1620340959486" />
+  </component>
+</project>
