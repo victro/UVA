@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c57bb1a-722b-43f3-a9e3-a3e2fff9c073" name="Default Changelist" comment="" />
+    <list default="true" id="2c57bb1a-722b-43f3-a9e3-a3e2fff9c073" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Uva621.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +47,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Application.Uva11172">
+  <component name="RunManager" selected="Application.Uva621">
     <configuration name="Uva11172" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Uva11172" />
       <module name="uva" />
@@ -60,8 +62,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Uva621" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Uva621" />
+      <module name="uva" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Uva621" />
         <item itemvalue="Application.Uva11172" />
         <item itemvalue="Application.Uva230" />
       </list>
