@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c57bb1a-722b-43f3-a9e3-a3e2fff9c073" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Uva10424.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Uva10919.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Uva10424.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uva10424.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +41,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1sBFnXd6k5zG3t2Wlmu3wXcNszp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,9 +51,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Application.Uva10424">
+  <component name="RunManager" selected="Application.Uva10919">
     <configuration name="Uva10424" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Uva10424" />
+      <module name="uva" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Uva10919" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Uva10919" />
       <module name="uva" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,6 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Uva10919" />
         <item itemvalue="Application.Uva10424" />
         <item itemvalue="Application.Uva621" />
         <item itemvalue="Application.Uva11172" />
@@ -107,31 +118,36 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2516" height="407" key="GridCell.Tab.0.bottom" timestamp="1620395896631">
+    <state width="2516" height="407" key="GridCell.Tab.0.bottom" timestamp="1620751707652">
       <screen x="0" y="23" width="2560" height="1413" />
     </state>
-    <state width="2516" height="407" key="GridCell.Tab.0.bottom/0.23.2560.1413/-1920.23.1920.1057@0.23.2560.1413" timestamp="1620395896631" />
-    <state width="2516" height="407" key="GridCell.Tab.0.bottom/0.23.2560.1417/-1920.23.1920.1053@0.23.2560.1417" timestamp="1620339542505" />
-    <state width="2516" height="407" key="GridCell.Tab.0.center" timestamp="1620395896630">
+    <state width="2516" height="407" key="GridCell.Tab.0.bottom/0.23.2560.1413/-1920.23.1920.1057@0.23.2560.1413" timestamp="1620751707652" />
+    <state width="2516" height="407" key="GridCell.Tab.0.bottom/0.23.2560.1417/-1920.23.1920.1053@0.23.2560.1417" timestamp="1620424927439" />
+    <state width="2516" height="407" key="GridCell.Tab.0.center" timestamp="1620751707651">
       <screen x="0" y="23" width="2560" height="1413" />
     </state>
-    <state width="2516" height="407" key="GridCell.Tab.0.center/0.23.2560.1413/-1920.23.1920.1057@0.23.2560.1413" timestamp="1620395896630" />
-    <state width="2516" height="407" key="GridCell.Tab.0.center/0.23.2560.1417/-1920.23.1920.1053@0.23.2560.1417" timestamp="1620339542504" />
-    <state width="2516" height="407" key="GridCell.Tab.0.left" timestamp="1620395896629">
+    <state width="2516" height="407" key="GridCell.Tab.0.center/0.23.2560.1413/-1920.23.1920.1057@0.23.2560.1413" timestamp="1620751707651" />
+    <state width="2516" height="407" key="GridCell.Tab.0.center/0.23.2560.1417/-1920.23.1920.1053@0.23.2560.1417" timestamp="1620424927438" />
+    <state width="2516" height="407" key="GridCell.Tab.0.left" timestamp="1620751707651">
       <screen x="0" y="23" width="2560" height="1413" />
     </state>
-    <state width="2516" height="407" key="GridCell.Tab.0.left/0.23.2560.1413/-1920.23.1920.1057@0.23.2560.1413" timestamp="1620395896629" />
-    <state width="2516" height="407" key="GridCell.Tab.0.left/0.23.2560.1417/-1920.23.1920.1053@0.23.2560.1417" timestamp="1620339542504" />
-    <state width="2516" height="407" key="GridCell.Tab.0.right" timestamp="1620395896630">
+    <state width="2516" height="407" key="GridCell.Tab.0.left/0.23.2560.1413/-1920.23.1920.1057@0.23.2560.1413" timestamp="1620751707651" />
+    <state width="2516" height="407" key="GridCell.Tab.0.left/0.23.2560.1417/-1920.23.1920.1053@0.23.2560.1417" timestamp="1620424927438" />
+    <state width="2516" height="407" key="GridCell.Tab.0.right" timestamp="1620751707652">
       <screen x="0" y="23" width="2560" height="1413" />
     </state>
-    <state width="2516" height="407" key="GridCell.Tab.0.right/0.23.2560.1413/-1920.23.1920.1057@0.23.2560.1413" timestamp="1620395896630" />
-    <state width="2516" height="407" key="GridCell.Tab.0.right/0.23.2560.1417/-1920.23.1920.1053@0.23.2560.1417" timestamp="1620339542505" />
+    <state width="2516" height="407" key="GridCell.Tab.0.right/0.23.2560.1413/-1920.23.1920.1057@0.23.2560.1413" timestamp="1620751707652" />
+    <state width="2516" height="407" key="GridCell.Tab.0.right/0.23.2560.1417/-1920.23.1920.1053@0.23.2560.1417" timestamp="1620424927439" />
     <state x="780" y="368" key="SettingsEditor" timestamp="1620340959486">
       <screen x="0" y="23" width="2560" height="1413" />
     </state>
     <state x="780" y="368" key="SettingsEditor/0.23.2560.1413/-1920.23.1920.1057@0.23.2560.1413" timestamp="1620340959486" />
+    <state x="971" y="318" width="617" height="822" key="find.popup" timestamp="1620401451681">
+      <screen x="0" y="23" width="2560" height="1413" />
+    </state>
+    <state x="971" y="318" width="617" height="822" key="find.popup/0.23.2560.1413/-1920.23.1920.1057@0.23.2560.1413" timestamp="1620401451681" />
   </component>
 </project>
