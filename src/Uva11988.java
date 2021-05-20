@@ -1,4 +1,5 @@
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
@@ -51,26 +52,34 @@ public class Uva11988 {
     public static void main(String[] args) throws IOException {
         //BufferedReader in = new BufferedReader(new FileReader("input.txt"));
         //BufferedWriter out = new BufferedWriter(new FileWriter("output.txt", true));
-        FastReader in = new FastReader();
-        String line = in.next();
-        while(line.length() > 0) {
-            solve(line);
+        BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+        String line;
+
+        while((line = in.readLine()) != null) {
+            System.out.printf("%s\n", solve(line));
         }
     }
 
     private static String solve(String line) {
         LinkedList<Character> myList = new LinkedList<>();
-        boolean beginning = false;
-        for (int i = 0; i < line.length(); i += 1) {
-            if (beginning == false && line.charAt(i) != '[' && line.charAt(i) != ']') {
-                myList.addLast(line.charAt(i));
-            } else if (beginning == true && line.charAt(i) != '[' && line.charAt(i) != ']') {
-                if (myList.size() > 0) {
-                    char aux = myList.getFirst();
+        int counterBeginning = 0;
+        StringBuilder result = new StringBuilder();
 
-                }
+        for (int i = 0; i < line.length(); i += 1) {
+            if (line.charAt(i) == '[') {
+                counterBeginning = 0;
+            } else if (line.charAt(i) == ']') {
+                counterBeginning = myList.size();
+            } else {
+                myList.add(counterBeginning, line.charAt(i));
+                counterBeginning += 1;
             }
         }
-        return "solved!";
+
+        for (char c : myList) {
+            result.append(c);
+        }
+
+        return result.toString();
     }
 }

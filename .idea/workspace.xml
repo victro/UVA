@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c57bb1a-722b-43f3-a9e3-a3e2fff9c073" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Uva11988.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Uva1241.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Uva11988.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uva11988.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +49,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Application.Uva1241">
-    <configuration name="Uva10424" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Uva10424" />
-      <module name="uva" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Uva11988">
     <configuration name="Uva10919" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Uva10919" />
       <module name="uva" />
@@ -67,6 +59,13 @@
     </configuration>
     <configuration name="Uva11933" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Uva11933" />
+      <module name="uva" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Uva11988" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Uva11988" />
       <module name="uva" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Uva11988" />
         <item itemvalue="Application.Uva1241" />
         <item itemvalue="Application.Uva11933" />
         <item itemvalue="Application.Uva12541" />
         <item itemvalue="Application.Uva10919" />
-        <item itemvalue="Application.Uva10424" />
       </list>
     </recent_temporary>
   </component>
@@ -120,25 +119,25 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2516" height="407" key="GridCell.Tab.0.bottom" timestamp="1621436508710">
-      <screen x="0" y="23" width="2560" height="1417" />
+    <state width="2516" height="407" key="GridCell.Tab.0.bottom" timestamp="1621539132497">
+      <screen x="0" y="23" width="2560" height="1413" />
     </state>
-    <state width="2516" height="407" key="GridCell.Tab.0.bottom/0.23.2560.1413/-1920.23.1920.1057@0.23.2560.1413" timestamp="1621034050098" />
+    <state width="2516" height="407" key="GridCell.Tab.0.bottom/0.23.2560.1413/-1920.23.1920.1057@0.23.2560.1413" timestamp="1621539132497" />
     <state width="2516" height="407" key="GridCell.Tab.0.bottom/0.23.2560.1417/-1920.23.1920.1053@0.23.2560.1417" timestamp="1621436508710" />
-    <state width="2516" height="407" key="GridCell.Tab.0.center" timestamp="1621436508709">
-      <screen x="0" y="23" width="2560" height="1417" />
+    <state width="2516" height="407" key="GridCell.Tab.0.center" timestamp="1621539132496">
+      <screen x="0" y="23" width="2560" height="1413" />
     </state>
-    <state width="2516" height="407" key="GridCell.Tab.0.center/0.23.2560.1413/-1920.23.1920.1057@0.23.2560.1413" timestamp="1621034050097" />
+    <state width="2516" height="407" key="GridCell.Tab.0.center/0.23.2560.1413/-1920.23.1920.1057@0.23.2560.1413" timestamp="1621539132496" />
     <state width="2516" height="407" key="GridCell.Tab.0.center/0.23.2560.1417/-1920.23.1920.1053@0.23.2560.1417" timestamp="1621436508709" />
-    <state width="2516" height="407" key="GridCell.Tab.0.left" timestamp="1621436508708">
-      <screen x="0" y="23" width="2560" height="1417" />
+    <state width="2516" height="407" key="GridCell.Tab.0.left" timestamp="1621539132495">
+      <screen x="0" y="23" width="2560" height="1413" />
     </state>
-    <state width="2516" height="407" key="GridCell.Tab.0.left/0.23.2560.1413/-1920.23.1920.1057@0.23.2560.1413" timestamp="1621034050097" />
+    <state width="2516" height="407" key="GridCell.Tab.0.left/0.23.2560.1413/-1920.23.1920.1057@0.23.2560.1413" timestamp="1621539132495" />
     <state width="2516" height="407" key="GridCell.Tab.0.left/0.23.2560.1417/-1920.23.1920.1053@0.23.2560.1417" timestamp="1621436508708" />
-    <state width="2516" height="407" key="GridCell.Tab.0.right" timestamp="1621436508709">
-      <screen x="0" y="23" width="2560" height="1417" />
+    <state width="2516" height="407" key="GridCell.Tab.0.right" timestamp="1621539132496">
+      <screen x="0" y="23" width="2560" height="1413" />
     </state>
-    <state width="2516" height="407" key="GridCell.Tab.0.right/0.23.2560.1413/-1920.23.1920.1057@0.23.2560.1413" timestamp="1621034050098" />
+    <state width="2516" height="407" key="GridCell.Tab.0.right/0.23.2560.1413/-1920.23.1920.1057@0.23.2560.1413" timestamp="1621539132496" />
     <state width="2516" height="407" key="GridCell.Tab.0.right/0.23.2560.1417/-1920.23.1920.1053@0.23.2560.1417" timestamp="1621436508709" />
     <state x="1112" y="438" key="RollbackChangesDialog" timestamp="1620752031419">
       <screen x="0" y="23" width="2560" height="1413" />
@@ -152,5 +151,9 @@
       <screen x="0" y="23" width="2560" height="1413" />
     </state>
     <state x="971" y="318" width="617" height="822" key="find.popup/0.23.2560.1413/-1920.23.1920.1057@0.23.2560.1413" timestamp="1620401451681" />
+    <state x="943" y="345" width="672" height="678" key="search.everywhere.popup" timestamp="1621539138268">
+      <screen x="0" y="23" width="2560" height="1413" />
+    </state>
+    <state x="943" y="345" width="672" height="678" key="search.everywhere.popup/0.23.2560.1413/-1920.23.1920.1057@0.23.2560.1413" timestamp="1621539138268" />
   </component>
 </project>
